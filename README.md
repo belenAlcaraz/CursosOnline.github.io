@@ -2,7 +2,7 @@
 
 Mini Alura es una plataforma de cursos en línea que ofrece una amplia variedad de cursos en diferentes lenguajes de programación y tecnologías. Esta página web está diseñada para brindar a los usuarios acceso a cursos de alta calidad y actualizados regularmente.
 
- 
+ ![Captura de pantalla del sitio web](img/Captura-mini-alura.jpeg)
 
 ## Características
 
